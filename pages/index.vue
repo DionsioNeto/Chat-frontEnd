@@ -7,6 +7,10 @@ useHead({
       },
   ]
 })
+
+definePageMeta({
+  layout: 'default'
+})
 </script>
 <template>
   
@@ -20,7 +24,7 @@ useHead({
       <h1 class="text-xl font-bold">Home</h1>
     </div>    
     <section class="">
-
+home
     </section>
   
 </template>
